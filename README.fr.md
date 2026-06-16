@@ -20,7 +20,7 @@ Manuels d'utilisation et fiches techniques de tous les produits TerraTransfer. C
 - Bouée de mesure
 - Chaîne de mesure de température
 - Capteurs de pression (Piézo type 0312, Céramique type 0420)
-- Antennes 4G (plate 85 mm, à visser 46 mm, fouet 280 mm)
+- Antennes 4G (hélicoïdale 45 mm et 76 mm, fouet 280 mm)
 - Logiciel Sensormanager
 - BLX Dashboard
 

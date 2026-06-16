@@ -20,7 +20,7 @@ Anleitungen und Datenblätter zu allen TerraTransfer-Produkten. Wähle oben dein
 - Messboje
 - Temperaturmesskette
 - Drucksensoren (Piezo Typ 0312, Keramik Typ 0420)
-- 4G-Antennen (Flach 85 mm, Schraub 46 mm, Stab 280 mm)
+- 4G-Antennen (Helical 45 mm und 76 mm, Stab 280 mm)
 - Sensormanager-Software
 - BLX-Dashboard
 

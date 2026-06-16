@@ -20,7 +20,7 @@ Brugervejledninger og datablade til alle TerraTransfer-produkter. Vælg dit spro
 - Målebøje
 - Temperaturmålekæde
 - Tryksensorer (Piezo type 0312, Keramisk type 0420)
-- 4G-antenner (flad 85 mm, skrue 46 mm, stang 280 mm)
+- 4G-antenner (helical 45 mm og 76 mm, stang 280 mm)
 - Sensormanager-software
 - BLX Dashboard
 

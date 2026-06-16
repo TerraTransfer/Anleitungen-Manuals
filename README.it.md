@@ -20,7 +20,7 @@ Manuali utente e schede tecniche di tutti i prodotti TerraTransfer. Selezionate 
 - Boa di misurazione
 - Catena di misura della temperatura
 - Sensori di pressione (Piezo tipo 0312, Ceramico tipo 0420)
-- Antenne 4G (piatta 85 mm, a vite 46 mm, a stilo 280 mm)
+- Antenne 4G (elicoidale 45 mm e 76 mm, a stilo 280 mm)
 - Software Sensormanager
 - BLX Dashboard
 

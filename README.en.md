@@ -20,7 +20,7 @@ User manuals and datasheets for all TerraTransfer products. Pick your language a
 - Measuring buoy
 - Temperature string
 - Pressure sensors (Piezo type 0312, Ceramic type 0420)
-- 4G antennas (Flat 85 mm, Screw-mount 46 mm, Rod 280 mm)
+- 4G antennas (Helical 45 mm and 76 mm, Rod 280 mm)
 - Sensormanager software
 - BLX Dashboard
 

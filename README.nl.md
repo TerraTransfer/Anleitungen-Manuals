@@ -20,7 +20,7 @@ Gebruikershandleidingen en datasheets voor alle TerraTransfer-producten. Kies hi
 - Meetboei
 - Temperatuurmeetketen
 - Druksensoren (Piezo type 0312, Keramisch type 0420)
-- 4G-antennes (vlak 85 mm, schroef 46 mm, staaf 280 mm)
+- 4G-antennes (helix 45 mm en 76 mm, staaf 280 mm)
 - Sensormanager-software
 - BLX-Dashboard
 
