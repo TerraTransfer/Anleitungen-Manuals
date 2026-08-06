@@ -16,6 +16,7 @@ Anleitungen und Datenblätter zu allen TerraTransfer-Produkten. Wähle oben dein
 ### Inhalt nach Produkt
 
 - Aquatos Web LTX (Datenlogger)
+- Aquatos LoRa (LoRaWAN-Datenlogger, Typ 1720)
 - Aquatos mini, Aquatos nano (Offline-Logger)
 - Messboje
 - Temperaturmesskette
