@@ -21,6 +21,7 @@ Anleitungen und Datenblätter zu allen TerraTransfer-Produkten. Wähle oben dein
 - Messboje
 - Temperaturmesskette
 - Drucksensoren (Piezo Typ 0312, Keramik Typ 0420)
+- Aquatos Radar (Radar-Pegelsensor Typ 0470)
 - 4G-Antennen (Helical 45 mm und 76 mm, Stab 280 mm)
 - Sensormanager-Software
 - BLX-Dashboard

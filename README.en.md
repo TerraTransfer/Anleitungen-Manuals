@@ -20,6 +20,7 @@ User manuals and datasheets for all TerraTransfer products. Pick your language a
 - Measuring buoy
 - Temperature string
 - Pressure sensors (Piezo type 0312, Ceramic type 0420)
+- Aquatos Radar (radar level sensor, type 0470)
 - 4G antennas (Helical 45 mm and 76 mm, Rod 280 mm)
 - Sensormanager software
 - BLX Dashboard
